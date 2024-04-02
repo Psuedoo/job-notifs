@@ -1,0 +1,5 @@
+pyright
+selenium
+tinydb
+deepdiff
+python-dotenv
